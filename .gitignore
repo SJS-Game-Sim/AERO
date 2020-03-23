@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Restrict Content to RDS content
+Content
+Content/*
+!Content/RDS
+!Content/RDS/*
+!Content/VirtualReality
+!Content/VirtualReality/*
+!Content/VirtualRealityBP
+!Content/VirtualRealityBP/*
