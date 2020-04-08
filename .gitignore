@@ -75,10 +75,17 @@ DerivedDataCache/*
 
 # Restrict Content to RDS content
 Content
-Content/*
-!Content/RDS
-!Content/RDS/*
-!Content/VirtualReality
-!Content/VirtualReality/*
-!Content/VirtualRealityBP
-!Content/VirtualRealityBP/*
+Content/Audio
+Content/Blueprints
+Content/Collections
+Content/Developers
+Content/Destructible\ Meshes
+Content/HDRI
+Content/FirstPerson
+Content/FirstPersonBP
+Content/Maps
+Content/Material_Layers
+Content/Materials
+Content/Props
+Content/StarterContent
+Content/Textures
