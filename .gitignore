@@ -74,18 +74,24 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Restrict Content to RDS content
-Content
+# Do not blanket restrict Content/* !!
+
 Content/Audio
 Content/Blueprints
 Content/Collections
+Content/DemoRoom/
 Content/Developers
 Content/Destructible\ Meshes
+Content/ExampleContent/
 Content/HDRI
 Content/FirstPerson
 Content/FirstPersonBP
 Content/Maps
 Content/Material_Layers
 Content/Materials
+Content/Meshes/
+Content/Panel\ Variants
 Content/Props
+Content/RDS_Assets
 Content/StarterContent
 Content/Textures
